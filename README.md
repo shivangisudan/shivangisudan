@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:141E30,100:243B55&amp;text=Shivangi%20Sudan&amp;fontColor=FFFFFF&amp;fontSize=50&amp;fontAlignY=38&amp;desc=Backend%20Engineering%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20AI&amp;descSize=20&amp;descAlignY=55" alt="Shivangi Sudan — Backend Engineering, Java, Spring Boot, AI" />
+  <img src="https://raw.githubusercontent.com/shivangisudan/shivangisudan/main/assets/header.svg" alt="Shivangi Sudan — Backend Engineering, Java, Spring Boot, AI" />
 </p>
 
 
@@ -61,9 +61,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivangisudan&amp;bg_color=0d1117&amp;color=36BCF7&amp;line=36BCF7&amp;point=FFFFFF&amp;hide_border=true&amp;area=true&amp;area_color=36BCF7" width="100%" alt="Shivangi's GitHub activity graph" />
-</p>
 
 ## 🌟 Featured Projects
 
@@ -153,10 +150,9 @@ class ShivangiSudan {
 }
 ```
 
-## 👀 Profile Views & Visitors
+## 👥 GitHub Community
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivangisudan&amp;style=for-the-badge&amp;color=36BCF7&amp;label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/shivangisudan?label=Followers&amp;style=for-the-badge&amp;color=36BCF7" alt="GitHub followers" />
 </p>
 
