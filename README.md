@@ -8,13 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:141E30,100:243B55&amp;text=Shivangi%20Sudan&amp;fontColor=FFFFFF&amp;fontSize=50&amp;fontAlignY=38&amp;desc=Backend%20Engineering%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20AI&amp;descSize=20&amp;descAlignY=55" alt="Shivangi Sudan — Backend Engineering, Java, Spring Boot, AI" />
 </p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivangisudan/shivangisudan/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivangisudan/shivangisudan/output/github-contribution-grid-snake.svg" />
-    <img alt="Shivangi's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/shivangisudan/shivangisudan/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-brightgreen?style=for-the-badge" alt="Focus: Backend and AI" />
