@@ -173,6 +173,4 @@ class ShivangiSudan {
 
 ### ⭐ Show some ❤️ by starring a project you like! ⭐
 
-<sub>Profile layout inspired by <a href="https://github.com/himanshu-sharmav">Himanshu Sharma</a>.</sub>
-
 </div>
