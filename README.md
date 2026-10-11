@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivangisudan/shivangisudan/main/assets/header.svg?v=rose-sage" alt="Shivangi Sudan — Backend Engineering, Java, Spring Boot, AI" />
+  <img src="https://raw.githubusercontent.com/shivangisudan/shivangisudan/87567ddb05fce0b323b1ac95d95381591aec67af/assets/header.svg" alt="Shivangi Sudan — Backend Engineering, Java, Spring Boot, AI" />
 </p>
 
 <p align="center">
@@ -166,7 +166,7 @@ class ShivangiSudan {
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivangisudan/shivangisudan/main/assets/footer.svg" alt="Decorative wave footer" />
+  <img src="https://raw.githubusercontent.com/shivangisudan/shivangisudan/36ba78a0a6cb5818a9e93401eb54a6c901e4a4d6/assets/footer.svg" alt="Decorative wave footer" />
 </p>
 
 <div align="center">
